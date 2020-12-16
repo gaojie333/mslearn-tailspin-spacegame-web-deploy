@@ -1,5 +1,5 @@
 init_test.git
-master_abc
+test_222
 
 Master_1111
 master_8888
